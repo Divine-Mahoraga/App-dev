@@ -1,2 +1,23 @@
-# App-dev
-My first repository
+# Favorite Movies
+- Avengers
+- Avengers: Age of Ultron
+- Avengers: Infinity War
+- Avengers: End Game
+- Spiderman: No way Home
+- Captain America Civil War
+- Ironman
+- Ironman 2
+- Captain America: The First Avenger
+- Captain America: The Winter Soldier
+- Black Phanter
+- Guardians of the Galaxy
+- Guardians of the Galaxy: Volume 2
+- Guardians of the Galaxy: Volume 3
+- Doctor Strange
+- Hulk
+- Ant-Man and the Wasp
+- Thor: Ragnarok
+- Loki (Series)
+- Doctor Strange in the Multiverse of Madness
+- WandaVision
+- Black WWidow
