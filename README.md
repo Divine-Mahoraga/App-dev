@@ -20,4 +20,4 @@
 - Loki (Series)
 - Doctor Strange in the Multiverse of Madness
 - WandaVision
-- Black WWidow
+- Black Widow
